@@ -1,0 +1,14 @@
+{
+    "name": "larakit/sf-angular-file-upload",
+    "description": "[Larakit] [staticfiles] Angular File Upload",
+    "version": "1.5.9",
+    "license": "MIT",
+    "require":{
+        "larakit/sf-angular":"*"
+    },
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}
