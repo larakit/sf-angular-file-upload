@@ -2,7 +2,7 @@
 
 
 angular
-    .module('larakit')
+    .module('lk-angular')
     // Angular File Upload module does not include this directive
     // Only for example
     /**
