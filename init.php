@@ -13,4 +13,4 @@
     ->cssPackage('ng-thumb.css')
     ->cssPackage('angular-file-upload.css')
     ->jsPackage('angular-file-upload.js');
-\Larakit\NgAdminlte\LkNg::moduleRegister('angularFileUpload');
+\Larakit\LkNgModule::register('angularFileUpload');
