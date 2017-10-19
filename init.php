@@ -7,7 +7,7 @@
  * Time: 15:20
  */
 \Larakit\StaticFiles\Manager::package('larakit/sf-angular-file-upload')
-    ->usePackage('larakit/sf-angular')
+    ->usePackage('larakit/lk-angular')
     ->setSourceDir('public')
     ->jsPackage('ng-thumb.js')
     ->cssPackage('ng-thumb.css')
